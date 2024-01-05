@@ -7,7 +7,7 @@ You can follow me on [Twitter](http://x.com/jxnlco). If you are interested in hi
 ---
 
 - Heres a list of logos / clients:
-    - [naro](http://narohq.com) — [trunktools](https://trunktools.com/) — [modal](http://modal.com) — [pydantic —](http://pydantic.dev) [wandb](https://wandb.ai/) — [kay.ai](http://Kay.ai) — [new.computer](http://new.computer)
+    - [rewind.ai](https://rewind.ai) -- [naro](http://narohq.com) — [trunktools](https://trunktools.com/) — [modal](http://modal.com) — [pydantic —](http://pydantic.dev) [wandb](https://wandb.ai/) — [kay.ai](http://Kay.ai) — [new.computer](http://new.computer)
 - Creator of  [Instructor](https://jxnl.github.io/instructor/) ~ 2.3k ✨, [Youtube Chapters](https://youtubechapters.app) & [Journal](http://usejournal.xyz) ~ 6k MAU
 - Sabbatical at South Park Commons
 - Staff Machine Learning Engineer @ Stitchfix — 2016, 2018-2023
