@@ -18,7 +18,7 @@ You can follow me on [Twitter](http://x.com/jxnlco). If you are interested in hi
 - Prev, Meta, ActionIQ, NYU -- 2015 - 2018
 - Computational Mathematics and Statistics @ University of Waterloo
 
-Thoughts 
+[Thoughts](https://jxnl.github.io/blog)
 - [Advice for young people](https://jxnl.github.io/blog/writing/2024/06/01/advice-to-young-people/?x=1)
 - [RAG is more than embeddings](https://jxnl.github.io/instructor/blog/2023/09/17/rag-is-more-than-just-embedding-search/)
 - [Pydantic is all you need (AI Engineer Keynote](https://www.youtube.com/watch?v=yj-wSRJwrrc&t=23))
