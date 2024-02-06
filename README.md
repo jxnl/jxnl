@@ -16,13 +16,25 @@ I want to support me, you can [sponsor me on github](https://github.com/sponsors
 - Staff Machine Learning Engineer @ Stitchfix — 2016, 2018-2023
 - Prev, Meta, ActionIQ, NYU, Meltwater - 2013-2018
 - Computational Mathematics and Statistics @ University of Waterloo
+- 
+## Writing[¶](https://jxnl.github.io/blog/#writing)
 
-## Writing
+- [Advice for young people](https://jxnl.github.io/blog/writing/2024/06/01/advice-to-young-people/)
+- [What I learned from trying](https://jxnl.github.io/blog/writing/2024/01/08/learning/)
+- [Indie Consulting](https://jxnl.github.io/blog/writing/2024/01/22/consulting/)
+- [Couches](https://jxnl.github.io/blog/writing/2024/01/20/couchs/)
+- [Centuar Chess](https://jxnl.github.io/blog/writing/2023/02/05/centaur-chess/)
+- [Freediving Under Ice](https://jxnl.github.io/blog/writing/2023/02/05/freediving-ice/)
 
-- [Advice for young people](https://jxnl.github.io/blog/writing/2024/06/01/advice-to-young-people/?x=1)
-- [RAG is more than embeddings](https://jxnl.github.io/instructor/blog/2023/09/17/rag-is-more-than-just-embedding-search/)
+## Systems[¶](https://jxnl.github.io/blog/#systems)
 
-## Talks and Podcasts
+- [5 Questions to ask yourself as sa AI Engineer](https://jxnl.github.io/blog/writing/2024/01/19/tips-probabilistic-software/)
+- [How to build a terrible RAG system](https://jxnl.github.io/blog/writing/2024/01/07/inverted-thinking-rag/)
+- [Rag is more than embeddings](https://jxnl.github.io/blog/writing/2023/09/17/rag-is-more-than-embeddings/)
+- [Flight, a framework for building and executing pipelines](https://jxnl.github.io/blog/writing/2022/08/01/stitchfix-framework/)
+- [LLM Observability is just plain observability](https://jxnl.github.io/blog/writing/2023/04/04/good-llm-observability/)
+
+## Talks and Podcasts[¶](https://jxnl.github.io/blog/#talks-and-podcasts)
 
 - [Keynote: Pydantic is all you need](https://www.youtube.com/watch?v=yj-wSRJwrrc&)
 - [Podcast: Building with AI](https://www.youtube.com/watch?v=RuLTElrphnk)
