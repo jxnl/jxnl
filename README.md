@@ -2,6 +2,8 @@
 
 Currently working as an independent consultant. I use my expertise in recommendation systems to helps fast-growing startups build out their RAG applications. I am also the creator of [Instructor](https://jxnl.github.io/instructor), [Flight](https://jxnl.github.io/flight), and an ML and data science educator.
 
+[![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=jxnl)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Support
 
 I want to support me, you can [sponsor me on github](https://github.com/sponsors/jxnl). I don't want to start a substack, but I do want to write more. So this will fund my morning coffee and tea.
@@ -9,14 +11,14 @@ I want to support me, you can [sponsor me on github](https://github.com/sponsors
 ---
 
 - Creator
-    - [Instructor](https://jxnl.github.io/instructor/)
-    - [Instructor-JS](https://instructor-ai.github.io/instructor-js/)
+    - [Instructor](https://python.useinstructor.com)
+    - [Instructor-JS](https://js.useinstructor.com)
     - [Youtube Chapters](https://youtubechapters.app) & [Journal](http://usejournal.xyz) ~ 6k MAU
 - Sabbatical @ South Park Commons - 2023 - Present
 - Staff Machine Learning Engineer @ Stitchfix — 2016, 2018-2023
 - Prev, Meta, ActionIQ, NYU, Meltwater - 2013-2018
 - Computational Mathematics and Statistics @ University of Waterloo
-- 
+
 ## Writing[¶](https://jxnl.github.io/blog/#writing)
 
 - [Advice for young people](https://jxnl.github.io/blog/writing/2024/06/01/advice-to-young-people/)
@@ -37,6 +39,7 @@ I want to support me, you can [sponsor me on github](https://github.com/sponsors
 ## Talks and Podcasts[¶](https://jxnl.github.io/blog/#talks-and-podcasts)
 
 - [Keynote: Pydantic is all you need](https://www.youtube.com/watch?v=yj-wSRJwrrc&)
+- [Podcast: Latent Space](https://www.latent.space/p/instructor?utm_source=podcast-email%2Csubstack&publication_id=1084089&post_id=143697169&utm_campaign=email-play-on-substack&utm_medium=email&r=3m5xk&triedRedirect=true)
 - [Podcast: Building with AI](https://www.youtube.com/watch?v=RuLTElrphnk)
 - [Podcast: Dagshub](https://www.youtube.com/watch?v=rDP44EVpHTA)
 - [Podcast: Talking Heads](https://www.youtube.com/watch?v=5-5jf3_mvBg)
