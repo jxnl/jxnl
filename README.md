@@ -10,7 +10,7 @@ I want to support me, you can [sponsor me on github](https://github.com/sponsors
 
 ---
 
-- [Instructor](https://useinstructor.com)
+- Creator of [Instructor](https://useinstructor.com)
 - Sabbatical @ South Park Commons - 2023 - Present
 - Staff Machine Learning Engineer @ Stitchfix — 2016, 2018-2023
 - Prev, Meta, ActionIQ, NYU, Meltwater - 2013-2018
