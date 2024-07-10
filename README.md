@@ -6,7 +6,7 @@ Currently working as an independent consultant. I use my expertise in recommenda
 
 ## Support
 
-I want to support me, you can [sponsor me on github](https://github.com/sponsors/jxnl), an subscribe to ny [newsletter](https://subscribe.jxnl.co/profile).
+I want to support me, you can [sponsor me on github](https://github.com/sponsors/jxnl), an subscribe to my [newsletter](https://subscribe.jxnl.co/profile).
 
 ---
 
