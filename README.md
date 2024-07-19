@@ -18,22 +18,25 @@ I want to support me, you can [sponsor me on github](https://github.com/sponsors
 
 Here's the updated content with "https://jxnl.github.io/blog/" replaced by "jxnl.co":
 
-## Writing
+# jxnl.co Organized Content
 
-- [Advice for young people](jxnl.co/writing/2024/06/01/advice-to-young-people/)
-- [What I learned from trying](jxnl.co/writing/2024/01/08/learning/)
-- [Indie Consulting](jxnl.co/writing/2024/01/22/consulting/)
-- [Couches](jxnl.co/writing/2024/01/20/couchs/)
-- [Centuar Chess](jxnl.co/writing/2023/02/05/centaur-chess/)
-- [Freediving Under Ice](jxnl.co/writing/2023/02/05/freediving-ice/)
-  
-## Systems 
+## RAG (Retrieval-Augmented Generation)=
+- [Systematically Improving Your RAG](https://jxnl.co/writing/2024/05/22/systematically-improving-your-rag)
+- [Low Hanging Fruit for RAG Search](https://jxnl.co/writing/2024/05/11/low-hanging-fruit-for-rag-search)
+- [Levels of Complexity: RAG Applications](https://jxnl.co/writing/2024/02/28/levels-of-complexity-rag-applications)
+- [Predictions for the Future of RAG](https://jxnl.co/writing/2024/06/05/predictions-for-the-future-of-rag)
+- [Inverted Thinking: RAG](https://jxnl.co/writing/2024/01/07/inverted-thinking-rag)
+- [RAG is More Than Embeddings](https://jxnl.co/writing/2023/09/17/rag-is-more-than-embeddings)
+- [What is Prompt Optimization](https://jxnl.co/writing/2024/05/22/what-is-prompt-optimization)
+- [Data Flywheel](https://jxnl.co/writing/2024/03/28/data-flywheel)
+- [10 Ways to be Data Illiterate and How to Avoid Them](https://jxnl.co/writing/2024/06/02/10-ways-to-be-data-illiterate-and-how-to-avoid-them)
 
-- [5 Questions to ask yourself as sa AI Engineer](jxnl.co/writing/2024/01/19/tips-probabilistic-software/)
-- [How to build a terrible RAG system](jxnl.co/writing/2024/01/07/inverted-thinking-rag/)
-- [Rag is more than embeddings](jxnl.co/writing/2023/09/17/rag-is-more-than-embeddings/)
-- [Flight, a framework for building and executing pipelines](jxnl.co/writing/2022/08/01/stitchfix-framework/)
-- [LLM Observability is just plain observability](jxnl.co/writing/2023/04/04/good-llm-observability/)
+
+## Career and Personal Development
+- [Advice to Young People](https://jxnl.co/writing/2024/06/01/advice-to-young-people)
+- [Learning](https://jxnl.co/writing/2024/01/08/learning)
+- [Consulting](https://jxnl.co/writing/2024/01/22/consulting)
+- [Losing My Hands](https://jxnl.co/writing/2024/04/29/losing-my-hands)
 
 The links have been updated as requested. Is there anything else you'd like me to do with this content?
 
