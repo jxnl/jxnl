@@ -10,17 +10,15 @@ I want to support me, you can [sponsor me on github](https://github.com/sponsors
 
 ---
 
-- Creator of [Instructor](https://useinstructor.com)
+- 567 Advisors - 2023 - Present 
+- Creator of [Instructor](https://useinstructor.com) - 2023 - Present
 - Sabbatical @ South Park Commons - 2023 - Present
 - Staff Machine Learning Engineer @ Stitchfix — 2016, 2018-2023
 - Prev, Meta, ActionIQ, NYU, Meltwater - 2013-2018
 - Computational Mathematics and Statistics @ University of Waterloo
 
-Here's the updated content with "https://jxnl.github.io/blog/" replaced by "jxnl.co":
+## RAG (Retrieval-Augmented Generation)
 
-# jxnl.co Organized Content
-
-## RAG (Retrieval-Augmented Generation)=
 - [Systematically Improving Your RAG](https://jxnl.co/writing/2024/05/22/systematically-improving-your-rag)
 - [Low Hanging Fruit for RAG Search](https://jxnl.co/writing/2024/05/11/low-hanging-fruit-for-rag-search)
 - [Levels of Complexity: RAG Applications](https://jxnl.co/writing/2024/02/28/levels-of-complexity-rag-applications)
