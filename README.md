@@ -41,7 +41,7 @@ The links have been updated as requested. Is there anything else you'd like me t
 ## Talks and Podcasts[¶](https://jxnl.github.io/blog/#talks-and-podcasts)
 
 - [Keynote: Pydantic is all you need](https://www.youtube.com/watch?v=yj-wSRJwrrc&)
-- [Podcast: Latent Space](https://www.latent.space/p/instructore)
+- [Podcast: Latent Space](https://www.latent.space/p/instructor)
 - [Podcast: Building with AI](https://www.youtube.com/watch?v=RuLTElrphnk)
 - [Podcast: Dagshub](https://www.youtube.com/watch?v=rDP44EVpHTA)
 - [Podcast: Talking Heads](https://www.youtube.com/watch?v=5-5jf3_mvBg)
