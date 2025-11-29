@@ -1,47 +1,76 @@
-# :boom: whats up?
+# Jason Liu
 
-Currently working as an independent consultant. I use my expertise in recommendation systems to helps fast-growing startups build out their RAG applications. I am also the creator of [Instructor](https://jxnl.github.io/instructor), [Flight](https://jxnl.github.io/flight), and an ML and data science educator.
+Some things about me:
 
-[![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=jxnl)](https://github.com/anuraghazra/github-readme-stats)
+- Founder of 567 Studios (7-figure revenue)
+- Previously Staff ML Engineer at Stitch Fix (2018-2023), built AI systems generating $50M+ annual revenue
+- Created Instructor (3M+ monthly downloads), recognized by OpenAI
+- Sabbatical @ South Park Commons
+- University of Waterloo, Computational Mathematics & Statistics
+- RSI forced me to pivot from coding to teaching teams to work more scientifically
+- Live in New York
 
-## Support
+Some things I believe:
 
-I want to support me, you can [sponsor me on github](https://github.com/sponsors/jxnl), an subscribe to my [newsletter](https://subscribe.jxnl.co/profile).
+- Your AI problems aren't AI problems - they're usually data, process, or people problems
+- Sell outcomes, not tasks
+- Simplicity beats complexity - if you can't explain it simply, you don't understand it
+- Measure what matters - does this solve a real problem someone will pay for?
+- Experimentation speed is your only moat
+- Confidence is the memory of success - practice more than you play
+
+What I do:
+
+- AI implementation consulting - help companies turn prototypes into production systems
+
+Open source:
+
+- Instructor (3M+ monthly downloads, 8,000+ stars) - Structured outputs from LLMs, recognized by OpenAI
+
+Training:
+
+- [Systematically Improving RAG Applications](https://maven.com/applied-llms/rag-playbook) (4.8 rating, 1000+ engineers)
+- [3 Day AI Coding Accelerator](https://maven.com/nila/ai-coding-accelerator) (with Vignesh Mohankumar)
+
+If you want to work together:
+
+- Consulting: work@jxnl.co
+
+Investing:
+
+Angel investor and a16z scout. Some companies I've backed:
+
+- [Pydantic Logfire](https://pydantic.dev/) ($12.5M Series A, Sequoia)
+- [Rork](https://rork.app/) ($2.8M seed, a16z Speedrun)
+- [Modal](https://modal.com/) ($16M Series A)
+- [Exa](https://exa.ai/) ($22M, YC 2021)
+- [Shaped AI](https://www.shaped.ai/) ($8M Series A, YC 2022)
+- [Kino.ai](https://kino.ai/) (YC S23)
+- [Raindrop.ai](https://www.raindrop.ai/) (YC)
+- [Haize Labs](https://haizelabs.com/) ($100M valuation)
+- [Browserbase](https://browserbase.com/) ($44.4M)
+- [Lovable.dev](https://lovable.dev/) ($20M+)
+- [Extend](https://www.extend.app/) ($17M Series A)
+- [Julius AI](https://julius.ai/) ($11M)
+- [Sandbar](https://sandbar.com/) (Seed, True Ventures)
+- [Augmental](https://www.augmental.tech/) ($1M+)
+- [Daytona](https://www.daytona.io/)
+- [Vantager](https://www.vantager.com/)
+- [Argo Labs](https://www.argolabs.ai/)
+- [Smithery.ai](https://smithery.ai/)
+- [Empower Sleep](https://www.empowersleep.com/)
+- [Godel Terminal](https://godelterminal.com/) ($2M pre-seed)
+
+Find me online:
+
+- [Twitter](https://twitter.com/jxnlco)
+- [GitHub](https://github.com/jxnl)
+- [LinkedIn](https://linkedin.com/in/jxnlco)
 
 ---
 
-- 567 Advisors - 2023 - Present 
-- Creator of [Instructor](https://useinstructor.com) - 2023 - Present
-- Sabbatical @ South Park Commons - 2023 - Present
-- Staff Machine Learning Engineer @ Stitchfix — 2016, 2018-2023
-- Prev, Meta, ActionIQ, NYU, Meltwater - 2013-2018
-- Computational Mathematics and Statistics @ University of Waterloo
+Worked at: Stitch Fix (Staff ML Engineer, 2018-2023), Meta (Data Scientist, 2017)
 
-## RAG (Retrieval-Augmented Generation)
+Consulted with: Zapier, HubSpot, Enterpret, Tensorlake, Limitless AI, Trunk Tools, Naro, New Computer, Sandbar, Dunbar, Bytebot, Kay.ai, Raycast, Weights & Biases, Modal Labs, Timescale, Pydantic, Galileo, Distributional
 
-- [Systematically Improving Your RAG](https://jxnl.co/writing/2024/05/22/systematically-improving-your-rag)
-- [Low Hanging Fruit for RAG Search](https://jxnl.co/writing/2024/05/11/low-hanging-fruit-for-rag-search)
-- [Levels of Complexity: RAG Applications](https://jxnl.co/writing/2024/02/28/levels-of-complexity-rag-applications)
-- [Predictions for the Future of RAG](https://jxnl.co/writing/2024/06/05/predictions-for-the-future-of-rag)
-- [Inverted Thinking: RAG](https://jxnl.co/writing/2024/01/07/inverted-thinking-rag)
-- [RAG is More Than Embeddings](https://jxnl.co/writing/2023/09/17/rag-is-more-than-embeddings)
-- [What is Prompt Optimization](https://jxnl.co/writing/2024/05/22/what-is-prompt-optimization)
-- [Data Flywheel](https://jxnl.co/writing/2024/03/28/data-flywheel)
-- [10 Ways to be Data Illiterate and How to Avoid Them](https://jxnl.co/writing/2024/06/02/10-ways-to-be-data-illiterate-and-how-to-avoid-them)
-
-
-## Career and Personal Development
-- [Advice to Young People](https://jxnl.co/writing/2024/06/01/advice-to-young-people)
-- [Learning](https://jxnl.co/writing/2024/01/08/learning)
-- [Consulting](https://jxnl.co/writing/2024/01/22/consulting)
-- [Losing My Hands](https://jxnl.co/writing/2024/04/29/losing-my-hands)
-
-The links have been updated as requested. Is there anything else you'd like me to do with this content?
-
-## Talks and Podcasts[¶](https://jxnl.github.io/blog/#talks-and-podcasts)
-
-- [Keynote: Pydantic is all you need](https://www.youtube.com/watch?v=yj-wSRJwrrc&)
-- [Podcast: Latent Space](https://www.latent.space/p/instructor)
-- [Podcast: Building with AI](https://www.youtube.com/watch?v=RuLTElrphnk)
-- [Podcast: Dagshub](https://www.youtube.com/watch?v=rDP44EVpHTA)
-- [Podcast: Talking Heads](https://www.youtube.com/watch?v=5-5jf3_mvBg)
+Trained engineers from: OpenAI, Anthropic, Google, Microsoft, Amazon, Airbnb, Databricks, TikTok, Shopify, Nvidia, Meta, GitLab, Intercom, PostHog, Miro, Workday, Mozilla, Redhat, Gumroad, Visa, PwC, KPMG, Accenture, Bain & Company, Booz Allen Hamilton, Northrop Grumman, Lincoln Financial, DataStax, Decagon
