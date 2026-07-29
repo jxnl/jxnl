@@ -1,24 +1,17 @@
 # Jason Liu
 
-  Founder, 567 Studios. Former Staff ML Engineer at Stitch Fix (2018–2023). Ex‑Meta (2017).
-  Built AI systems driving $50M+ annual revenue. Creator of Instructor (6M+ monthly downloads).
-  Waterloo (Computational Mathematics & Statistics). Based in New York.
+Developer Experience Engineer on the Codex team at [OpenAI](https://openai.com/).
 
-  I help engineering teams ship AI: faster cycles, cleaner data, clearer evaluation, real outcomes.
-  Core beliefs: outcomes over tasks, simplicity over complexity, speed over perfection.
+Creator of [Instructor](https://python.useinstructor.com/), a Python library for structured LLM outputs that OpenAI cited as inspiration for its structured outputs feature.
 
-  Work
+I write about building AI systems, open source, product work, taste, and personal growth at [jxnl.co](https://jxnl.co/).
 
-  - Consulting: help engineering teams ship AI
-  - Open source: Instructor — structured outputs for LLMs
+## Investing
 
-  Training
+Angel investor and scout for [Andreessen Horowitz](https://a16z.com/). I've invested in companies including Lovable, Poke, Modal, Exa, Browserbase, Raindrop.ai, and Pydantic.
 
-  - Systematically Improving RAG Applications
-  - 3‑Day AI Coding Accelerator (with Vignesh Mohankumar)
+## Previously
 
-  Investing
-  Angel investor and a16z scout. Backed: Pydantic Logfire, Modal, Exa, Shaped, Rork, Lovable, Browserbase, Raindrop, Julius, Extend, Vantager, and others.
+I ran a solo consulting practice helping startups transition to AI, and cohort-based training on RAG, AI agents, and independent consulting. Those offerings are now closed; the course content is available at [Systematically Improving RAG](https://567-labs.github.io/systematically-improving-rag/).
 
-  Contact
-  work@jxnl.co
+Follow me on [X](https://x.com/jxnlco) or subscribe to my [newsletter](https://subscribe.jxnl.co/).
